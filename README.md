@@ -7,4 +7,4 @@ Code for the Git and GitHub Exercise
 
 •	ValeriEnchev takes the role "Shuffler"
 
-•	venchev70 takes the role "Styler"
+•	ValeriEnchev takes the role "Styler"
