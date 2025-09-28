@@ -1,6 +1,3 @@
-$(document).ready(function() {
-	$('#btnDelete').click(deleteTown)
-});
 
 $(document).ready(function() {
 	$('#btnDelete').click(deleteTown);
